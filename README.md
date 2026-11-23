@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Neha! 👋
 
-<!--
-**nehasivakumarr/nehasivakumarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Cyber Security Student
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Cybersecurity and Networking.
+- Learning Python and C programming.
+- Exploring Cloud Security and Information Security.
+- Always eager to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (Beginner)
+- C Programming (Beginner)
+- HTML & CSS
+- Computer Networking (Beginner)
+- Cloud Security (Beginner)
+- Git & GitHub (Beginner)
+
+## Connect With Me
+- LinkedIn: Add your LinkedIn profile link here.
